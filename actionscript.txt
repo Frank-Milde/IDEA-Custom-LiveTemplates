@@ -1,0 +1,5 @@
+# ActionScript - templates #
+
+ResourceManager.getInstance().$METHOD$ $END$`
+ResourceManager.getInstance().getResourceBundle("$BUNDLE$", "$RESOURCE_NAME$").content["$KEY$"]="$VALUE$";$END$`
+	
